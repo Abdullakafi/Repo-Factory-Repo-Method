@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo_Factory", "Repo_Factory\Repo_Factory.csproj", "{0FD3F8CE-97BA-4BDA-93EE-B70A385D31E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo_Method", "Repo_Method\Repo_Method.csproj", "{0ACD1C7D-7AD5-4808-B927-5BAC86D959A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD3F8CE-97BA-4BDA-93EE-B70A385D31E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD3F8CE-97BA-4BDA-93EE-B70A385D31E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD3F8CE-97BA-4BDA-93EE-B70A385D31E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD3F8CE-97BA-4BDA-93EE-B70A385D31E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACD1C7D-7AD5-4808-B927-5BAC86D959A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACD1C7D-7AD5-4808-B927-5BAC86D959A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACD1C7D-7AD5-4808-B927-5BAC86D959A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACD1C7D-7AD5-4808-B927-5BAC86D959A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FFA6F1-D805-457F-9E23-1531AE98B98C}
+	EndGlobalSection
+EndGlobal

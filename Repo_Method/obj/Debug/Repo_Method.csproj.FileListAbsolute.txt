@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\bin\Debug\Repo_Method.exe.config
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\bin\Debug\Repo_Method.exe
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\bin\Debug\Repo_Method.pdb
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\obj\Debug\Repo_Method.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\obj\Debug\Repo_Method.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\obj\Debug\Repo_Method.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\obj\Debug\Repo_Method.exe
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Method\obj\Debug\Repo_Method.pdb

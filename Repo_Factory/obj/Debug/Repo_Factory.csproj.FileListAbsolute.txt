@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\bin\Debug\Repo_Factory.exe.config
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\bin\Debug\Repo_Factory.exe
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\bin\Debug\Repo_Factory.pdb
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\obj\Debug\Repo_Factory.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\obj\Debug\Repo_Factory.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\obj\Debug\Repo_Factory.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\obj\Debug\Repo_Factory.exe
+D:\R52\M2\Projects\4\Exam_03_Project_Solution\Repo_Factory\obj\Debug\Repo_Factory.pdb
